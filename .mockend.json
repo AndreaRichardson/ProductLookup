@@ -12,11 +12,11 @@
         "maxLength": 100
       }
     },
-    "tag": {
+    "product": {
       "string": [
-        "one",
-        "two",
-        "three"
+        "TX2332352",
+        "TX27428934",
+        "TX4782394782"
       ]
     },
     "isDraft": {
