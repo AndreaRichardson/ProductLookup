@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Product": {
     "title": { "string": {} },
     "comments": {
       "hasMany": "Comment"
@@ -8,7 +8,7 @@
   "Comment": {
     "body": { "string": {} },
     "post": {
-      "belongsTo": "Post"
+      "belongsTo": "Product"
     }
   }
 }
