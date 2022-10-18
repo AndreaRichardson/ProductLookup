@@ -1,7 +1,11 @@
 {
-  "Produc": {
-    "cover": {
-      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+  "Product": {
+    "product": {
+      "string": [
+        "TX53251",
+        "TX214365315",
+        "TX63843"
+      ]
     },
     "title": {
       "loremWords": {
