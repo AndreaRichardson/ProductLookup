@@ -1,17 +1,5 @@
 {
 	  "Repair": {
-	    "title": {
-	      "loremWords": {
-	        "minLength": 5,
-	        "maxLength": 20
-	      }
-	    },
-	    "body": {
-	      "loremParagraphs": {
-	        "minLength": 10,
-	        "maxLength": 100
-	      }
-	    },
 	    "product": {
 	      "string": [
 	        "TX2332352",
