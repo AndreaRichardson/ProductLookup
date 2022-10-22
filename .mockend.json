@@ -13,31 +13,30 @@
         	 "BG",
         	 "CH",
         	 "CH",
-        "CZ",
-        "DE",
-        "DK",
-        "EE",
-        "ES",
-        "FI",
-        "FR",
-        "HR",
-        "HU",
-        "IT",
-        "LT",
-        "LV",
-        "NL",
-        "NO",
-        "PL",
-        "PT",
-        "RO",
-        "RS",
-        "SE",
-        "SI",
-        "SK",
-        "GB",
-        "TR"
-      ]
-    }
-
-	  }
-	}
+       		 "CZ",
+       		 "DE",
+      		 "DK",
+      		 "EE",
+      		 "ES",
+    		 "FI",
+     		 "FR",
+    		 "HR",
+      		 "HU",
+   		 "IT",
+    		 "LT",
+  		 "LV",
+    		 "NL",
+ 		 "NO",
+    		 "PL",
+   		 "PT",
+    		 "RO",
+         	 "RS",
+       		 "SE",
+       		 "SI",
+       		 "SK",
+      		 "GB",
+    		 "TR"
+      		]
+    	}
+  }
+}
