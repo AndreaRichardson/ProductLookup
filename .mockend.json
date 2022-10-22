@@ -1,57 +1,32 @@
 {
-  "Repair": {
-    "country": {
-      "string": [
-        "BE",
-        "BG",
-        "CH",
-        "CH",
-        "CZ",
-        "DE",
-        "DK",
-        "EE",
-        "ES",
-        "FI",
-        "FR",
-        "HR",
-        "HU",
-        "IT",
-        "LT",
-        "LV",
-        "NL",
-        "NO",
-        "PL",
-        "PT",
-        "RO",
-        "RS",
-        "SE",
-        "SI",
-        "SK",
-        "GB",
-        "TR"
-      ]
-    },
-    "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
-    },
-    "product": {
-      "string": [
-        "TX2332352",
-        "TX27428934",
-        "TX4782394782"
-      ]
-    },
-    "isDraft": {
-      "boolean": {}
-    },
-    "createdAt": {
-      "dateTime": {
-        "min": "2010-01-01T00:00:00Z",
-        "max": "2020-12-31T23:59:59Z"
-      }
-    }
-  }
-}
+	  "Repair": {
+	    "title": {
+	      "loremWords": {
+	        "minLength": 5,
+	        "maxLength": 20
+	      }
+	    },
+	    "body": {
+	      "loremParagraphs": {
+	        "minLength": 10,
+	        "maxLength": 100
+	      }
+	    },
+	    "product": {
+	      "string": [
+	        "TX2332352",
+	        "TX27428934",
+	        "TX4782394782"
+	      ]
+	    },
+	    "isDraft": {
+	      "boolean": {}
+	    },
+	    "createdAt": {
+	      "dateTime": {
+	        "min": "2010-01-01T00:00:00Z",
+	        "max": "2020-12-31T23:59:59Z"
+	      }
+	    }
+	  }
+	}
