@@ -1,9 +1,34 @@
 {
   "Repair": {
-    "title": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
+    "country": {
+      "string": {
+        "BE",
+        "BG",
+        "CH",
+        "CH",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "HR",
+        "HU",
+        "IT",
+        "LT",
+        "LV",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "RS",
+        "SE",
+        "SI",
+        "SK",
+        "GB",
+        "TR"
       }
     },
     "body": {
