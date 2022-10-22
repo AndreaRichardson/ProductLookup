@@ -1,7 +1,7 @@
 {
   "Repair": {
     "country": {
-      "string": {
+      "string": [
         "BE",
         "BG",
         "CH",
@@ -29,7 +29,7 @@
         "SK",
         "GB",
         "TR"
-      }
+      ]
     },
     "body": {
       "loremParagraphs": {
